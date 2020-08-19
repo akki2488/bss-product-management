@@ -1,2 +1,2 @@
-# bss-product-management
-product catalogue management apis
+# gbss-product-management-service
+Java microservice with CRUD APIs to manage product catalog entities.
